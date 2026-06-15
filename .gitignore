@@ -1,0 +1,4 @@
+node_modules/
+public/roms/
+*.log
+.DS_Store
