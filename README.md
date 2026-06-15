@@ -13,6 +13,24 @@
   - ROM 来源：[zdg-kinlon/FC_ROMS](https://github.com/zdg-kinlon/FC_ROMS)
   - 操作键：方向键移动，Z=A，X=B，Enter=Start，Shift=Select
 
+## 截图
+
+| 首页登录 | 中央大厅 |
+|:---:|:---:|
+| ![首页](screenshots/01-home.png) | ![大厅](screenshots/02-lobby.png) |
+
+| 创建房间 | 聊天房间 |
+|:---:|:---:|
+| ![创建房间](screenshots/03-create-room.png) | ![聊天](screenshots/04-chat.png) |
+
+| 茶绘房间 | 你画我猜 |
+|:---:|:---:|
+| ![茶绘](screenshots/05-paint.png) | ![你画我猜](screenshots/06-guess.png) |
+
+| FC 模拟器 |
+|:---:|
+| ![FC模拟器](screenshots/07-fc.png) |
+
 ## 快速开始
 
 ```bash
