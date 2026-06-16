@@ -31,7 +31,31 @@
 |:---:|
 | ![FC模拟器](screenshots/07-fc.png) |
 
-## 快速开始
+## 一键部署启动
+
+### Windows
+
+双击运行：
+
+```
+scripts/deploy.bat
+```
+
+或在 PowerShell / CMD 中：
+
+```bash
+node scripts/deploy.js
+```
+
+### macOS / Linux
+
+```bash
+./scripts/deploy.sh
+```
+
+脚本会自动完成：检查 Node.js → `npm install` → 检测/下载 ROM → 启动服务。
+
+## 手动快速开始
 
 ```bash
 npm install
